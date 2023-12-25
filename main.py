@@ -1,1 +1,1 @@
-print('My first program')
+print('My seconds program')
